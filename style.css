@@ -1,0 +1,21 @@
+div{
+    border: 2px solid black; 
+    box-sizing: border-box;
+    width: 1000px;
+    height: 200px;
+    top: 47px;
+    left: 38px;
+
+}
+h1{
+    text-decoration-line: underline;
+    size: 40px;
+}
+p{
+    size:40px;
+    width: 800px;;
+}
+a{
+    size: 40px;
+    text-decoration-line: underline;
+}
